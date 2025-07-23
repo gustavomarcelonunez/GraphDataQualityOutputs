@@ -1,1 +1,1 @@
-# GraphDataQualityOutputs
+This repository contains exported samples of 30 randomly extracted triples (entity–relationship–entity) from knowledge graphs in GraphML format. These triples serve as data quality evaluation snapshots, enabling inspection and manual validation of the semantic coherence and relationship correctness in knowledge graph datasets. The outputs support reproducible analysis and assessment of graph-based data quality for research and publication purposes.
